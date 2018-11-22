@@ -1,4 +1,4 @@
 module.exports = {
-	Dialogflow: '<Enter your Dialogflow token here>',
-	Discord: '<Enter your discord token here>'
+	Dialogflow: 'cd5de89eca124c319348d2a076825777',
+	Discord: '<NTE1MTI1Mzc5MjEyNjQwMjU3.Dtgjug.rKQTbOQZJkhaROJHdsxxdD3nAZc>'
 }
